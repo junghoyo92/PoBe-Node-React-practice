@@ -1,0 +1,17 @@
+{
+  "name": "pobe",
+  "version": "1.0.0",
+  "description": "first react and nodejs file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoyoung Jung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-react-views": "^0.10.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
